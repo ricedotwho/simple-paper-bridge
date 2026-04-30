@@ -2,5 +2,5 @@ main: "com.ricedotwho.paperbridge.BridgePlugin"
 name: ${NAME}
 version: "${VERSION}"
 api-version: "1.21.11"
-author: AUTHOR
-description: DESCRIPTION
+author: "ricedotwho"
+description: "Simple minecraft-discord bridge plugin and bot"
